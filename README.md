@@ -1,5 +1,95 @@
 <h1 align="center">Hi 👋, I'm T Kushal</h1>
-<h3 align="center">A passionate Software Engineer Backend Engineer | Java Spring Boot • Python Django REST APIs • JWT Security • WebSockets • Docker • Kafka</h3>
+
+<h3 align="center">
+Backend Software Engineer | Java Spring Boot • Python Django<br/>
+REST APIs • JWT • WebSockets • Docker • Kafka
+</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tkushal-16&label=Profile%20views&color=0e75b6&style=flat" alt="tkushal-16" />
+</p>
+
+### 👨‍💻 About Me
+
+I’m a **Backend Software Engineer** with hands-on experience building **secure, scalable, and real-time backend systems** using **Java Spring Boot** and **Python Django**.  
+Over the past **11 months**, I’ve worked on backend applications involving **authentication, real-time communication, video analytics, performance optimization, and containerized deployments**.
+
+I enjoy **designing clean backend architectures**, optimizing system performance, and collaborating with teams to deliver reliable solutions.
+
+---
+
+### 🔧 What I Work With
+
+- **Backend:** Java (Spring Boot), Python (Django)
+- **APIs:** RESTful APIs, JWT Authentication, Spring Security, Djoser
+- **Real-Time Systems:** WebSockets
+- **Messaging & Streaming:** Kafka Streams
+- **Databases:** PostgreSQL, ClickHouse, MySQL
+- **Storage:** MinIO (Object Storage)
+- **DevOps:** Docker, Containerization
+- **Tools:** Git, Linux, Postman, Nginx
+
+---
+
+### 🚀 Highlights
+
+- Built and maintained **multiple backend services** using **Spring Boot** and **Django**
+- Implemented **JWT-based authentication & authorization**
+- Worked on **video analytics backends**, including **video frame extraction pipelines**
+- Helped **containerize backend applications** using Docker
+- Refactored and optimized code to reduce **CPU utilization from ~80% to ~40%**
+- Collaborated with cross-functional teams to meet **tight delivery timelines**
+
+---
+
+- 🌱 Currently learning **GraphQL**
+- 💬 Ask me about **Java Spring Boot, Backend Architecture, REST APIs**
+- 📫 Reach me at **kushalt1601@gmail.com**
+- 📄 Resume:  
+  👉 <a href="https://drive.google.com/file/d/1fGHC_mMQQrtueG2_fmRp3iPfi13W0Wxn/view?usp=sharing" target="_blank">View Resume</a>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/t-kushal" target="_blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+  <a href="https://kafka.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/></a>
+  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
+</p>
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkushal-16&layout=compact&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkushal-16&show_icons=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tkushal-16&hide_border=true)
+
+
+<!--This is the old version -->
+
+<!-- <h1 align="center">Hi 👋, I'm T Kushal</h1>
+<h3 align="center">Backend Software Engineer | Java Spring Boot • Python Django
+REST APIs • JWT • WebSockets • Docker • Kafka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkushal-16&label=Profile%20views&color=0e75b6&style=flat" alt="tkushal-16" /> </p>
 
@@ -15,7 +105,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/t-kushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/t-kushal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/t-kushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/t-kushal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +115,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkushal-16&show_icons=true&locale=en" alt="tkushal-16" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkushal-16&" alt="tkushal-16" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkushal-16&" alt="tkushal-16" /></p> -->
