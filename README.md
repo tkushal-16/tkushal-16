@@ -5,18 +5,15 @@ Backend Software Engineer | Java Spring Boot • Python Django<br/>
 REST APIs • JWT • WebSockets • Docker • Kafka
 </h3>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tkushal-16&label=Profile%20views&color=0e75b6&style=flat" alt="tkushal-16" />
-</p>
+</p> -->
+----
 
 ### 👨‍💻 About Me
 
 I’m a **Backend Software Engineer** with hands-on experience building **secure, scalable, and real-time backend systems** using **Java Spring Boot** and **Python Django**.  
-Over the past **11 months**, I’ve worked on backend applications involving **authentication, real-time communication, video analytics, performance optimization, and containerized deployments**.
-
 I enjoy **designing clean backend architectures**, optimizing system performance, and collaborating with teams to deliver reliable solutions.
-
----
 
 ### 🔧 What I Work With
 
@@ -28,8 +25,6 @@ I enjoy **designing clean backend architectures**, optimizing system performance
 - **Storage:** MinIO (Object Storage)
 - **DevOps:** Docker, Containerization
 - **Tools:** Git, Linux, Postman, Nginx
-
----
 
 ### 🚀 Highlights
 
@@ -76,14 +71,14 @@ I enjoy **designing clean backend architectures**, optimizing system performance
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
 </p>
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tkushal-16&layout=compact&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkushal-16&show_icons=true&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tkushal-16&hide_border=true)
-
+-->
 
 <!--This is the old version -->
 
