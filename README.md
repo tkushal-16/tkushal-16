@@ -23,17 +23,8 @@ I enjoy **designing clean backend architectures**, optimizing system performance
 - **Messaging & Streaming:** Kafka Streams
 - **Databases:** PostgreSQL, ClickHouse, MySQL
 - **Storage:** MinIO (Object Storage)
-- **DevOps:** Docker, Containerization
-- **Tools:** Git, Linux, Postman, Nginx
-
-### 🚀 Highlights
-
-- Built and maintained **multiple backend services** using **Spring Boot** and **Django**
-- Implemented **JWT-based authentication & authorization**
-- Worked on **video analytics backends**, including **video frame extraction pipelines**
-- Helped **containerize backend applications** using Docker
-- Refactored and optimized code to reduce **CPU utilization from ~80% to ~40%**
-- Collaborated with cross-functional teams to meet **tight delivery timelines**
+- **DevOps:** Docker
+- **Tools:** Git, Linux, Postman
 
 ---
 
@@ -89,6 +80,15 @@ REST APIs • JWT • WebSockets • Docker • Kafka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkushal-16&label=Profile%20views&color=0e75b6&style=flat" alt="tkushal-16" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tkushal-16" alt="tkushal-16" /></a> </p>
+
+### 🚀 Highlights
+
+- Built and maintained **multiple backend services** using **Spring Boot** and **Django**
+- Implemented **JWT-based authentication & authorization**
+- Worked on **video analytics backends**, including **video frame extraction pipelines**
+- Helped **containerize backend applications** using Docker
+- Refactored and optimized code to reduce **CPU utilization from ~80% to ~40%**
+- Collaborated with cross-functional teams to meet **tight delivery timelines**
 
 - 🌱 I’m currently learning **Graph Query Language**
 
