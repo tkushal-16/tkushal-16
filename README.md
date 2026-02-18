@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Backend Software Engineer | Java Spring Boot • Python Django<br/>
-REST APIs • JWT • WebSockets • Docker • Kafka
+REST APIs • WebSockets • Docker • Kafka Streams
 </h3>
 
 <!-- <p align="left">
