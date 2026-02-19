@@ -21,7 +21,7 @@ I enjoy **designing clean backend architectures**, optimizing system performance
 - **APIs:** RESTful APIs, JWT Authentication, Djoser
 - **Real-Time Systems:** WebSockets
 - **Messaging & Streaming:** Kafka Streams
-- **Databases:** PostgreSQL, ClickHouse, MySQL
+- **Databases:** PostgreSQL, ClickHouse, MySQL, Milvus
 - **Storage:** MinIO (Object Storage)
 - **DevOps:** Docker
 - **Tools:** Git, Linux, Postman
