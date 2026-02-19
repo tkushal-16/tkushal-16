@@ -18,7 +18,7 @@ I enjoy **designing clean backend architectures**, optimizing system performance
 ### 🔧 What I Work With
 
 - **Backend:** Java (Spring Boot), Python (Django)
-- **APIs:** RESTful APIs, JWT Authentication, Spring Security, Djoser
+- **APIs:** RESTful APIs, JWT Authentication, Djoser
 - **Real-Time Systems:** WebSockets
 - **Messaging & Streaming:** Kafka Streams
 - **Databases:** PostgreSQL, ClickHouse, MySQL
@@ -28,7 +28,7 @@ I enjoy **designing clean backend architectures**, optimizing system performance
 
 ---
 
-- 🌱 Currently learning **MicroServices and System Design**
+- 🌱 Currently learning **MicroServices and System Design, Design Pattern**
 - 💬 Ask me about **Java Spring Boot, Backend Architecture, REST APIs**
 - 📫 Reach me at **kushalt1601@gmail.com**
 - 📄 Resume:  
