@@ -20,7 +20,7 @@ I enjoy **designing clean backend architectures**, optimizing system performance
 - **Backend:** Java (Spring Boot), Python (Django)
 - **APIs:** RESTful APIs, JWT Authentication, Djoser
 - **Real-Time Systems:** WebSockets
-- **Messaging & Streaming:** Kafka Streams
+- **Messaging & Streaming:** Kafka Streams, Redpanda
 - **Databases:** PostgreSQL, ClickHouse, MySQL, Milvus
 - **Storage:** MinIO (Object Storage)
 - **DevOps:** Docker
