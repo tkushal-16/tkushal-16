@@ -24,7 +24,7 @@ I enjoy **designing clean backend architectures**, optimizing system performance
 - **Databases:** PostgreSQL, ClickHouse, MySQL, Milvus
 - **Storage:** MinIO (Object Storage)
 - **DevOps:** Docker
-- **Tools:** Git, Linux, Postman
+- **Tools:** Git, Linux, Postman, Intellij IDE
 
 ---
 
