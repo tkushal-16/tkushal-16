@@ -5,10 +5,9 @@ Backend Software Engineer | Java Spring Boot • Python Django<br/>
 REST APIs • WebSockets • Docker • Kafka Streams
 </h3>
 
-<!-- <p align="left">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=tkushal-16&label=Profile%20views&color=0e75b6&style=flat" alt="tkushal-16" />
-</p> -->
-----
+</p> 
 
 ### 👨‍💻 About Me
 
