@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm T Kushal</h1>
 
 <h3 align="center">
-Backend Software Engineer | Java Spring Boot • Python Django<br/>
+Software Engineer | Backend Developer | Java Spring Boot • Python Django<br/>
 REST APIs • WebSockets • Docker • Kafka Streams
 </h3>
 
@@ -20,7 +20,7 @@ I enjoy **designing clean backend architectures**, optimizing system performance
 - **APIs:** RESTful APIs, JWT Authentication, Djoser
 - **Real-Time Systems:** WebSockets
 - **Messaging & Streaming:** Kafka Streams, Redpanda
-- **Databases:** PostgreSQL, ClickHouse, MySQL, Milvus
+- **Databases:** PostgreSQL, ClickHouse, MySQL, Vector
 - **Storage:** MinIO (Object Storage)
 - **DevOps:** Docker
 - **Tools:** Git, Linux, Postman, Intellij IDE
