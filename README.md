@@ -31,7 +31,7 @@ I enjoy **designing clean backend architectures**, optimizing system performance
 - 💬 Ask me about **Java Spring Boot, Backend Architecture, REST APIs**
 - 📫 Reach me at **kushalt1601@gmail.com**
 - 📄 Resume:  
-  👉 <a href="https://drive.google.com/file/d/1WIoErHvWaB2e8rGnvehu83JeDxBZsV2u/view?usp=sharing" target="_blank">View Resume</a>
+  👉 <a href="https://drive.google.com/file/d/1LFP5fLSBX72xQQ3ufrI5iHoip6i8eeeb/view?usp=drive_link" target="_blank">View Resume</a>
 
 ---
 
