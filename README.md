@@ -30,8 +30,8 @@ I enjoy **designing clean backend architectures**, optimizing system performance
 - 🌱 Currently learning **MicroServices and System Design, Design Pattern**
 - 💬 Ask me about **Java Spring Boot, Backend Architecture, REST APIs**
 - 📫 Reach me at **kushalt1601@gmail.com**
-- 📄 Resume:  
-  👉 <a href="https://drive.google.com/file/d/1LFP5fLSBX72xQQ3ufrI5iHoip6i8eeeb/view?usp=drive_link" target="_blank">View Resume</a>
+- 📄 Resume: <a href="https://drive.google.com/file/d/1HpKLtdmvU9yhMA5CmcvnNTmNwfLZz2eb/view?usp=sharing">View Resume</a>
+<!-- 👉 <a href="https://drive.google.com/file/d/1HpKLtdmvU9yhMA5CmcvnNTmNwfLZz2eb/view?usp=sharing">View Resume</a> -->
 
 ---
 
