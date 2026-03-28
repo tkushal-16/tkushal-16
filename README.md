@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Software Engineer | Backend Developer | Java Spring Boot • Python Django<br/>
-REST APIs • WebSockets • Docker • Kafka Streams
+REST APIs • WebSockets • Docker • AWS
 </h3>
 
 <p align="left">
@@ -11,7 +11,7 @@ REST APIs • WebSockets • Docker • Kafka Streams
 
 ### 👨‍💻 About Me
 
-I’m a **Software Engineer** with hands-on experience building **secure, scalable, and real-time backend systems** using **Java Spring Boot** and **Python Django**.  
+I’m a **Software Engineer** with 1+ years hands-on experience building **secure, scalable, and real-time backend systems** using **Java Spring Boot** and **Python Django**.  
 I enjoy **designing clean backend architectures**, optimizing system performance, and collaborating with teams to deliver reliable solutions.
 
 ### 🔧 What I Work With
