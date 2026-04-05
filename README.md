@@ -18,7 +18,7 @@ I enjoy **designing clean backend architectures**, optimizing system performance
 
 - **Programming Languages:** Java, Python, C
 - **Backend:** Java (Spring Boot), Python (Django)
-- **APIs & Architecture:**  RESTful APIs, Microservices, WebSockets, JWT Authentication, Swagger
+- **APIs & Architecture:**  RESTful APIs, Microservices, WebSockets, JWT Authentication
 - **Messaging & Streaming:** Kafka Streams, Redpanda
 - **Databases:** PostgreSQL, MySQL, ClickHouse, Vector Database
 - **Storage:** MinIO (Object Storage)
@@ -26,7 +26,7 @@ I enjoy **designing clean backend architectures**, optimizing system performance
 
 ---
 
-- 🌱 Currently learning **MicroServices and System Design, Design Pattern**
+- 🌱 Currently learning **MicroServices and System Design, Design Pattern and JavaScript**
 - 💬 Ask me about **Java Spring Boot, Backend Architecture, REST APIs**
 - 📫 Reach me at **kushalt1601@gmail.com**
 - 📄 Resume: <a href="https://drive.google.com/file/d/1XeZGcTGaTvsgdyqbzot2C81ETCGgOGF_/view?usp=sharing">View Resume</a>
