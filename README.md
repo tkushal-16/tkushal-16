@@ -1,23 +1,18 @@
  <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B2F,100:00E676&height=200&section=header&text=T%20Kushal&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Building%20Reliable%20Backend%20Systems&descAlignY=55&descSize=17&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:002B55,100:008CFF&height=200&section=header&text=T%20Kushal&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Building%20Reliable%20Backend%20Systems&descAlignY=55&descSize=17&animation=fadeIn" width="100%" />
 </p>
 
-<!-- Typing Animation -->
-<h1 align="center">
-  Hey there! 👋 I'm T Kushal
-</h1>
+<h1 align="center">Hey there! 👋 I'm T Kushal</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=650&lines=Software+Engineer;Java+%7C+Spring+Boot+Developer;Python+%7C+Django+Developer;Backend+Systems+%7C+Real-Time+Applications;Turning+Ideas+Into+Reliable+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00A3FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Java+%7C+Spring+Boot+Developer;Python+%7C+Django+Developer;Backend+Systems+%7C+Real-Time+Applications;Turning+Ideas+Into+Reliable+Software" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <a href="https://github.com/tkushal-16">
-    <img src="https://komarev.com/ghpvc/?username=tkushal-16&label=PROFILE+VIEWS&color=00E676&style=for-the-badge" alt="Profile views"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/tkushal-16?label=Followers&style=for-the-badge&color=00E676&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/tkushal-16?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00E676&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=tkushal-16&label=PROFILE+VIEWS&color=008CFF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/tkushal-16?label=Followers&style=for-the-badge&color=008CFF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/tkushal-16?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=008CFF&labelColor=0D1117" />
 </p>
 
 ---
@@ -62,10 +57,10 @@ I enjoy understanding how systems work under the hood, solving complex engineeri
 
 ### 🔧 Other Technologies
 <p>
-  <img src="https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=00E676"/>
-  <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00E676"/>
-  <img src="https://img.shields.io/badge/MinIO-0D1117?style=for-the-badge&logo=minio&logoColor=00E676"/>
-  <img src="https://img.shields.io/badge/Redpanda-0D1117?style=for-the-badge&logo=redpanda&logoColor=00E676"/>
+  <img src="https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=00A3FF"/>
+  <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00A3FF"/>
+  <img src="https://img.shields.io/badge/MinIO-0D1117?style=for-the-badge&logo=minio&logoColor=00A3FF"/>
+  <img src="https://img.shields.io/badge/Redpanda-0D1117?style=for-the-badge&logo=redpanda&logoColor=00A3FF"/>
 </p>
 
 ---
@@ -73,22 +68,24 @@ I enjoy understanding how systems work under the hood, solving complex engineeri
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tkushal-16&show_icons=true&theme=transparent&hide_border=true&title_color=00E676&icon_color=00E676&text_color=C9D1D9&bg_color=0D1117&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkushal-16&layout=compact&theme=transparent&hide_border=true&title_color=00E676&text_color=C9D1D9&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tkushal-16&show_icons=true&theme=transparent&hide_border=true&title_color=00A3FF&icon_color=00A3FF&text_color=C9D1D9&bg_color=0D1117&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkushal-16&layout=compact&theme=transparent&hide_border=true&title_color=00A3FF&text_color=C9D1D9&bg_color=0D1117" />
 </p>
 
-<!-- GitHub Streak -->
-<h3 align="center">🔥 Contribution Streak</h3>
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=tkushal-16&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=00E676&fire=00E676&currStreakNum=FFFFFF&sideNums=00E676&currStreakLabel=00E676&sideLabels=8B949E&dates=8B949E" />
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=tkushal-16&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=00A3FF&fire=38BDF8&currStreakNum=FFFFFF&sideNums=00A3FF&currStreakLabel=00A3FF&sideLabels=8B949E&dates=8B949E" />
 </p>
 
-<!-- Contribution Graph -->
-<h3 align="center">📈 Contribution Activity</h3>
+---
+
+## 📈 Actual Contribution Activity
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tkushal-16&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF&area=true&area_color=003B2F&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tkushal-16&bg_color=0D1117&color=00A3FF&line=008CFF&point=FFFFFF&area=true&area_color=003B70&hide_border=true" />
 </p>
 
 ---
@@ -97,16 +94,16 @@ I enjoy understanding how systems work under the hood, solving complex engineeri
 
 <p align="center">
   <a href="https://github.com/tkushal-16">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E676" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00A3FF" />
   </a>
   <a href="https://linkedin.com/in/t-kushal">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E676" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A3FF" />
   </a>
   <a href="mailto:kushalt1601@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E676" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00A3FF" />
   </a>
   <a href="https://instagram.com/tkushal_16">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00E676" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00A3FF" />
   </a>
 </p>
 
@@ -123,5 +120,5 @@ I enjoy understanding how systems work under the hood, solving complex engineeri
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,50:003B2F,100:0D1117&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008CFF,50:002B55,100:0D1117&height=100&section=footer" width="100%" />
 </p>
